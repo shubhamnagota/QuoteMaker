@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394026025298",
+    "firebase_url": "https://quotemaker-740ef.firebaseio.com",
+    "project_id": "quotemaker-740ef",
+    "storage_bucket": "quotemaker-740ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394026025298:android:7c42b52148717468",
+        "android_client_info": {
+          "package_name": "com.thestubbornthinker.quotemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394026025298-kt7st0p594flrc9baf1ikuc9sbjngcp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thestubbornthinker.quotemaker",
+            "certificate_hash": "2fc89ded2c7d940de79813e6312b8270c52f4b26"
+          }
+        },
+        {
+          "client_id": "394026025298-acdgm487ejaqmjp2v3bfbjcmkef97u50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBVKbpXix4v5XiYwZyYw9Qz0Ce9S4_ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394026025298-acdgm487ejaqmjp2v3bfbjcmkef97u50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
